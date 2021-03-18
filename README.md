@@ -1,4 +1,4 @@
-# git-vscode-Commit
+# git-vscode
 
 **Source to learn:**
 
