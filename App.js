@@ -1,6 +1,7 @@
 /**
  * First commit: Learn git in vscode
  * Second commit: "correction"
+ * Third commit: Pull request
  * Sample React Native App
  * https://github.com/facebook/react-native
  *
